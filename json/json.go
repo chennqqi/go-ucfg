@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"io/ioutil"
 
-	"github.com/elastic/go-ucfg"
+	"github.com/chennqqi/go-ucfg"
 )
 
 func NewConfig(in []byte, opts ...ucfg.Option) (*ucfg.Config, error) {

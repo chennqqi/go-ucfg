@@ -1,6 +1,6 @@
 package cfgutil
 
-import "github.com/elastic/go-ucfg"
+import "github.com/chennqqi/go-ucfg"
 
 // Collector collects and merges multiple generated *ucfg.Config, remembering
 // errors, for postponing error checking after having merged all loaded configurations.

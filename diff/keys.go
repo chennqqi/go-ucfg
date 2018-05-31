@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	ucfg "github.com/elastic/go-ucfg"
+	ucfg "github.com/chennqqi/go-ucfg"
 )
 
 // Type custom type to identify what was added, remove or keep in the configuration

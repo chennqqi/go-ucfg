@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/elastic/go-ucfg"
-	"github.com/elastic/go-ucfg/internal/parse"
+	"github.com/chennqqi/go-ucfg"
+	"github.com/chennqqi/go-ucfg/internal/parse"
 )
 
 // NewFlagKeyValue implements the flag.Value interface for

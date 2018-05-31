@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	ucfg "github.com/elastic/go-ucfg"
+	ucfg "github.com/chennqqi/go-ucfg"
 )
 
 var opts = []ucfg.Option{ucfg.PathSep(".")}

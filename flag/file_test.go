@@ -8,7 +8,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/elastic/go-ucfg"
+	"github.com/chennqqi/go-ucfg"
 )
 
 func TestFlagFileParsePrimitives(t *testing.T) {

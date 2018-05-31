@@ -3,9 +3,9 @@ package yaml
 import (
 	"io/ioutil"
 
-	"gopkg.in/yaml.v2"
-
+	"github.com/chennqqi/goutils/consul"
 	"github.com/elastic/go-ucfg"
+	"gopkg.in/yaml.v2"
 )
 
 func NewConfig(in []byte, opts ...ucfg.Option) (*ucfg.Config, error) {

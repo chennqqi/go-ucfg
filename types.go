@@ -10,7 +10,7 @@ import (
 
 	uuid "github.com/satori/go.uuid"
 
-	"github.com/elastic/go-ucfg/internal/parse"
+	"github.com/chennqqi/go-ucfg/internal/parse"
 )
 
 type value interface {
